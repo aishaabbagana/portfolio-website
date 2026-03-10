@@ -27,27 +27,34 @@ The goal of this project was to:
 The porfolio website includes the following sections:
 
 - **Hero Section**
+
   Introduction with name, short description, and a call-to-action button.
 
 - **About Me Section**
+
   Overview of my academic background and interest in programming and software
   developmet.
 
 - **Skills Section**
+
   Technical skills organised into categories including programming languages,
   tools, and technologies.
 
 - **Projects Section**
+
   Sample projects demonstrating technical capabilities.
 
 - **Certifications Section**
+
   Microsoft certification fundamentals providing foundational understaning of 
   technologies.
 
 - **Contact Section**
+
   Ways to connect via email, LinkedIn and GitHub.
 
 - **Footer**
+
   Site attribution and technologies used.
 
 ## JavaScript Functionality
