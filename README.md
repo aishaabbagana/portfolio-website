@@ -8,6 +8,11 @@ certifications in a structured portfolio format. It demonstrates fundamental
 front-end develpment concepts including semantic HTML structure, CSS styling,
 responsive design, and basic JavaScript interactivity.
 
+
+## Live Website
+
+[View the live portfolio] (https://aishaabbagana.github.io/portfolio-website/)
+
 ## Assignment Objectives
 
 The goal of this project was to:
