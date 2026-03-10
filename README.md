@@ -75,7 +75,7 @@ portfolio-website/
 The layout adapt to different screen sizes using responsive CSS styling so that
 the website remains readable and well-structured on smaller devices.
 
-# Purpose of the Project
+## Purpose of the Project
 
 This portfolio page acts as a simple professional landing page serving as a 
 professional digital identity that can be shared with recruiters, clients 
